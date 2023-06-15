@@ -1,4 +1,4 @@
-# Lets_Check
+# MysteryMapper
  ## About 
  
 Welcome to the social media profile checker! With this script, you can quickly and easily find out if a user has a presence on various social media platforms. Simply enter the username you want to check, and the number of social media profiles you want to retrieve (between 1 and 20). The script will then use the social-scan API to search for the user and display the resulting social media profiles.
